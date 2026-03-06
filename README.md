@@ -3,7 +3,7 @@
 #swapping of two numbers in python
 a=10
 b=25
-a,b=b,a
+a,b=b,a 
 
 print(a) #output 25
 print(b) #output 10
